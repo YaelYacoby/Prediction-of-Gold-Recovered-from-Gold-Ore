@@ -8,7 +8,6 @@ The model should predict the amount of gold recovered from gold ore.
 1. _Data Preparation_
   * Upload libraries
   * Preprocessing
-  * Merging Strategy
 2. _Exploratory Data Analysis_
   * Missing Values
   * Concentrations of Metals
